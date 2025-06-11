@@ -6,6 +6,15 @@
   --color-background: #ffffff; /* Branco */
   --color-text: #333333;       /* Cinza escuro */
 }
+.color-sample {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  margin-right: 0.5rem;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+}
 
 body {
   font-family: Arial, sans-serif;
